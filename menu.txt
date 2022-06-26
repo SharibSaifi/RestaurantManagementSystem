@@ -1,0 +1,7 @@
+Pizza 200
+Burger 120
+Momos 80
+Pasta 50
+Coffee 30
+Samosa 10
+Roll 20
